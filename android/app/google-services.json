@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69301709968",
+    "project_id": "flashchat-e9a1e",
+    "storage_bucket": "flashchat-e9a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69301709968:android:ede37293ac196e9ef5fc15",
+        "android_client_info": {
+          "package_name": "com.agilecreatives.flutter_flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69301709968-a7a1t3fs2ao3jvn1k9dba59p7e7cbd80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHb-PrLjsjGeaNnCr5srbWHVNsqrFLf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69301709968-a7a1t3fs2ao3jvn1k9dba59p7e7cbd80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
